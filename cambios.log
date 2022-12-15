@@ -1,0 +1,834 @@
+[2022-12-01 15:51:28] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 15:51:28] [ ERROR] [OdontologoController:40] Fallo en el guardado de la operación de guardado del odontologo con id: 1
+[2022-12-01 15:52:45] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 15:52:51] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 15:52:51] [ INFO ] [OdontologoController:36] Exito en el guardado de la operación de guardado del odontologo con id: 1
+[2022-12-01 16:28:13] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:28:13] [ ERROR] [OdontologoController:40] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 16:29:19] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 16:29:47] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:29:47] [ INFO ] [OdontologoController:36] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 16:34:06] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 16:34:11] [ INFO ] [OdontologoController:47] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:43:23] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:43:23] [ ERROR] [OdontologoController:40] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 16:46:49] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:46:50] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 16:46:54] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:48:24] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:48:24] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:48:57] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:48:57] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:49:03] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:49:03] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 16:49:08] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:49:13] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:49:13] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:49:28] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 16:49:32] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:49:33] [ INFO ] [OdontologoController:51] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 16:49:36] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:49:40] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 16:49:45] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:49:51] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:49:51] [ INFO ] [OdontologoController:36] Exito en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:50:57] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:54:21] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:54:21] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:54:31] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 16:54:31] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 16:54:40] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 16:54:58] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 16:55:02] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 16:55:02] [ INFO ] [OdontologoController:36] Exito en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 16:55:08] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 17:06:44] [ WARN ] [OdontologoController:76] Iniciando la operacion de borrado del odontologo con id: 4
+[2022-12-01 17:06:45] [ ERROR] [OdontologoController:84] Falla en la operacion de borrar el odontologo con id: 4
+[2022-12-01 17:06:57] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 17:06:57] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 17:07:04] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 17:07:04] [ ERROR] [OdontologoController:69] Fallo en la operacion de listar todos los odontologos
+[2022-12-01 17:07:11] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 17:07:11] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 17:07:16] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 17:07:17] [ ERROR] [OdontologoController:69] Fallo en la operacion de listar todos los odontologos
+[2022-12-01 17:07:29] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 17:07:56] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 17:07:56] [ INFO ] [OdontologoController:51] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 17:08:18] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 17:08:18] [ INFO ] [OdontologoController:65] Exito en la operacion de listar todos los odontologos
+[2022-12-01 17:08:35] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 17:08:35] [ INFO ] [OdontologoController:36] Exito en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 17:08:40] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 17:08:40] [ INFO ] [OdontologoController:51] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 17:08:47] [ WARN ] [OdontologoController:76] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-01 17:08:47] [ INFO ] [OdontologoController:79] Exito en la operacion de borrar el odontologo con id: 1
+[2022-12-01 17:08:54] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 17:08:54] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 21:34:46] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 21:34:51] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 21:34:51] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 21:34:56] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 21:34:56] [ WARN ] [OdontologoController:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 21:35:16] [ WARN ] [OdontologoController:68] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-01 21:35:16] [ ERROR] [OdontologoController:76] Falla en la operacion de borrar el odontologo con id: 1
+[2022-12-01 21:35:22] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-01 21:35:25] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 21:35:25] [ INFO ] [OdontologoController:51] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 21:35:32] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-01 21:35:37] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-01 21:35:37] [ INFO ] [OdontologoController:36] Exito en la operacion de actualizacion del odontologo con id: 1
+[2022-12-01 21:35:40] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 21:35:40] [ INFO ] [OdontologoController:51] Exito en la busqueda del odontologo con id: 1
+[2022-12-01 21:35:45] [ WARN ] [OdontologoController:68] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-01 21:35:45] [ INFO ] [OdontologoController:71] Exito en la operacion de borrar el odontologo con id: 1
+[2022-12-01 21:35:49] [ INFO ] [OdontologoController:48] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-01 21:35:49] [ ERROR] [OdontologoController:55] Fallo en la busqueda del odontologo con id: 1
+[2022-12-01 21:35:52] [ INFO ] [OdontologoController:62] Iniciando la operación de listar todos los odontologos
+[2022-12-02 12:08:05] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-02 12:08:05] [ ERROR] [OdontologoController:47] Fallo en la busqueda del odontologo con id: 1
+[2022-12-02 12:08:09] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-02 12:08:16] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-02 12:08:16] [ ERROR] [OdontologoService:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-02 12:09:42] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-02 12:09:42] [ ERROR] [OdontologoService:53] Fallo en la operacion de eliminacion del odontologo con id: 1
+[2022-12-02 12:10:01] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-02 12:10:05] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-02 12:10:05] [ INFO ] [OdontologoController:43] Exito en la busqueda del odontologo con id: 1
+[2022-12-02 12:10:08] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-02 12:10:14] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-02 12:10:14] [ INFO ] [OdontologoService:37] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-02 12:10:17] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-02 12:10:17] [ INFO ] [OdontologoController:43] Exito en la busqueda del odontologo con id: 1
+[2022-12-02 12:10:19] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-02 12:10:19] [ INFO ] [OdontologoService:49] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-04 12:50:14] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 12:50:14] [ ERROR] [OdontologoController:47] Fallo en la busqueda del odontologo con id: 1
+[2022-12-04 12:50:25] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-04 12:50:35] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 12:50:35] [ ERROR] [OdontologoService:41] Fallo en la operacion de actualizacion del odontologo con id: 1
+[2022-12-04 12:50:44] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-04 12:50:44] [ ERROR] [OdontologoService:53] Fallo en la operacion de eliminacion del odontologo con id: 1
+[2022-12-04 12:50:58] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 12:51:03] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 12:51:03] [ INFO ] [OdontologoController:43] Exito en la busqueda del odontologo con id: 1
+[2022-12-04 12:51:08] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-04 12:51:11] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 12:51:11] [ INFO ] [OdontologoService:37] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-04 12:51:15] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 12:51:15] [ INFO ] [OdontologoController:43] Exito en la busqueda del odontologo con id: 1
+[2022-12-04 12:51:20] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-04 12:51:20] [ INFO ] [OdontologoService:49] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-04 12:51:24] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-04 13:11:57] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:11:57] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:12:41] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 13:12:41] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:14:09] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-04 13:14:09] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:17:04] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:17:04] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:17:49] [ INFO ] [OdontologoController:54] Iniciando la operación de listar todos los odontologos
+[2022-12-04 13:17:52] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 13:17:52] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:18:08] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-04 13:18:08] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:19:17] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 13:19:20] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:19:20] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:19:26] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 13:19:26] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:19:26] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-04 13:19:42] [ WARN ] [OdontologoController:60] Iniciando la operacion de borrado del odontologo con id: 1
+[2022-12-04 13:19:42] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:19:42] [ INFO ] [OdontologoService:57] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-04 13:22:16] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:22:16] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:22:23] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 13:22:23] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:22:29] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 13:22:34] [ INFO ] [OdontologoController:40] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:22:34] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:22:38] [ INFO ] [OdontologoController:33] Iniciando una operacion de actualizacion de un odontologo con id:1
+[2022-12-04 13:22:38] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:22:38] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-04 13:27:39] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:27:40] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:27:54] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:1
+[2022-12-04 13:27:54] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:28:44] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 1
+[2022-12-04 13:28:44] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 13:28:51] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 13:29:01] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:29:01] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:29:13] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:1
+[2022-12-04 13:29:13] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:29:13] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-04 13:29:20] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 13:29:20] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:29:23] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 1
+[2022-12-04 13:29:23] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 13:29:23] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-04 13:50:10] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-04 13:50:10] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-04 13:50:53] [ INFO ] [PacienteController:40] Iniciando una operación de busqueda de paciente con id: prueba@gmail.com
+[2022-12-04 13:50:53] [ ERROR] [PacienteService:61] Fallo en la operacion de busqueda del paciente con email: prueba@gmail.com
+[2022-12-04 13:51:08] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 2
+[2022-12-04 13:51:08] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 2
+[2022-12-04 13:51:39] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 13:51:44] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 2
+[2022-12-04 13:51:44] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 2
+[2022-12-04 13:51:52] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-04 13:51:52] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-04 13:52:00] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 13:52:20] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-04 13:52:20] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 13:52:28] [ INFO ] [PacienteController:40] Iniciando una operación de busqueda de paciente con id: prueba@gmail.com
+[2022-12-04 13:52:28] [ INFO ] [PacienteService:57] Exito en la operación de busqueda del paciente con email: prueba@gmail.com
+[2022-12-04 13:52:37] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 13:53:18] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 13:53:21] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 13:53:30] [ INFO ] [PacienteController:40] Iniciando una operación de busqueda de paciente con id: prueba@gmail.com
+[2022-12-04 13:53:50] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-04 13:53:50] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 13:53:50] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-04 13:53:56] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 13:54:00] [ INFO ] [PacienteController:40] Iniciando una operación de busqueda de paciente con id: prueba@gmail.com
+[2022-12-04 13:54:00] [ INFO ] [PacienteService:57] Exito en la operación de busqueda del paciente con email: prueba@gmail.com
+[2022-12-04 20:47:58] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 20:47:58] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 20:48:06] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-04 20:48:10] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:1
+[2022-12-04 20:48:10] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 20:48:18] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 1
+[2022-12-04 20:48:18] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 20:48:27] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 20:48:34] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 20:48:34] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 20:48:39] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-04 20:48:44] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:1
+[2022-12-04 20:48:44] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 20:48:44] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-04 20:48:47] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-04 20:48:47] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 20:49:12] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-04 20:49:12] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-04 20:49:21] [ INFO ] [PacienteController:40] Iniciando una operación de busqueda de paciente con id: prueba@gmail.com
+[2022-12-04 20:49:21] [ ERROR] [PacienteService:61] Fallo en la operacion de busqueda del paciente con email: prueba@gmail.com
+[2022-12-04 20:49:29] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-04 20:49:29] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-04 20:49:35] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 20:49:45] [ INFO ] [PacienteController:53] Iniciando una operacion de busqueda - actualizacion de un paciente con id:2
+[2022-12-04 20:49:45] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 2
+[2022-12-04 20:49:59] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 20:50:07] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-04 20:50:12] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-04 20:50:12] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 20:50:16] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-04 20:50:57] [ INFO ] [TurnoController:52] Iniciando la operación de listar todos los turnos
+[2022-12-04 20:51:07] [ INFO ] [TurnoController:45] Iniciando una operación de busqueda del turno con id: 1
+[2022-12-04 20:51:07] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-04 20:51:21] [ INFO ] [TurnoController:58] Iniciando una operacion de busqueda - actualizacion del turno con id:2
+[2022-12-04 20:51:21] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 2
+[2022-12-04 20:52:02] [ WARN ] [TurnoController:74] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 2
+[2022-12-04 20:52:02] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 2
+[2022-12-04 20:52:14] [ INFO ] [TurnoController:32] Iniciando una operación de guardado del turno con id: null
+[2022-12-04 20:55:51] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 20:55:58] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 20:56:07] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: null - asignado al odontologo con id: null
+[2022-12-04 20:57:02] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: null - asignado al odontologo con id: null
+[2022-12-04 21:00:33] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: null - asignado al odontologo con id: null
+[2022-12-04 21:02:08] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: null - asignado al odontologo con id: null
+[2022-12-04 21:02:17] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: null - asignado al odontologo con id: null
+[2022-12-04 21:04:29] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-04 21:04:29] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 21:04:42] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 21:04:47] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 21:05:03] [ INFO ] [TurnoController:52] Iniciando la operación de listar todos los turnos
+[2022-12-04 21:05:18] [ INFO ] [TurnoController:45] Iniciando una operación de busqueda del turno con id: 1
+[2022-12-04 21:05:18] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-04 21:05:22] [ INFO ] [TurnoController:58] Iniciando una operacion de busqueda - actualizacion del turno con id:1
+[2022-12-04 21:05:22] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-04 21:05:26] [ WARN ] [TurnoController:74] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 2
+[2022-12-04 21:05:26] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 2
+[2022-12-04 21:05:36] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-04 21:05:36] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 21:05:36] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 21:05:36] [ INFO ] [TurnoController:35] Existo en la operacion de guardado del turno
+[2022-12-04 21:06:46] [ INFO ] [TurnoController:32] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-04 21:06:46] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 21:06:46] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 21:06:46] [ INFO ] [TurnoController:35] Existo en la operacion de guardado del turno
+[2022-12-04 21:06:51] [ INFO ] [TurnoController:52] Iniciando la operación de listar todos los turnos
+[2022-12-04 21:07:01] [ INFO ] [TurnoController:45] Iniciando una operación de busqueda del turno con id: 1
+[2022-12-04 21:07:01] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-04 21:07:46] [ INFO ] [TurnoController:58] Iniciando una operacion de busqueda - actualizacion del turno con id:2
+[2022-12-04 21:07:46] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-04 21:07:46] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 21:07:46] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 21:07:46] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-04 21:07:46] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 2
+[2022-12-04 21:07:46] [ INFO ] [TurnoController:64] Existo en la operacion de actualizacion del turno
+[2022-12-04 21:07:57] [ INFO ] [TurnoController:52] Iniciando la operación de listar todos los turnos
+[2022-12-04 21:08:04] [ WARN ] [TurnoController:74] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 2
+[2022-12-04 21:08:04] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-04 21:08:04] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 2
+[2022-12-04 21:08:07] [ INFO ] [TurnoController:52] Iniciando la operación de listar todos los turnos
+[2022-12-04 23:31:18] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-04 23:31:18] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-04 23:32:21] [ INFO ] [TurnoController:59] Iniciando una operacion de busqueda - actualizacion del turno con id:2
+[2022-12-04 23:32:21] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 2
+[2022-12-04 23:32:39] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-04 23:32:50] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-04 23:32:56] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-04 23:33:02] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-04 23:33:02] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-04 23:33:02] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-04 23:33:02] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-04 23:33:05] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-05 00:12:45] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 00:21:52] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-05 00:21:52] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-05 00:24:23] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-05 00:33:28] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-05 00:35:35] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 00:37:57] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:38:40] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-05 00:38:40] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 00:41:17] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 00:41:58] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 00:42:27] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:42:27] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:42:28] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-05 00:42:28] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:42:28] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 00:42:28] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-05 00:42:28] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:01:39] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-05 01:01:39] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 01:02:10] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:02:11] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:02:11] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-05 01:02:11] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:02:11] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-05 01:02:11] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-05 01:02:11] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-05 01:04:06] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:04:26] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:17:48] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:17:58] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 01:18:01] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:18:14] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:19:46] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 2
+[2022-12-05 01:19:46] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-05 01:19:46] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 2
+[2022-12-05 01:23:50] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:34:39] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:34:43] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:34:45] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 01:34:49] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:44:15] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 01:44:18] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:44:32] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:52:20] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:52:49] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:52:53] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:53:09] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-05 01:53:09] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 01:53:09] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-05 01:56:34] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:57:15] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:59:39] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:59:52] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 01:59:56] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 01:59:59] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:03:24] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:03:31] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 02:03:40] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:03:41] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:03:41] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:04:03] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:04:03] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:05:33] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:05:33] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:06:20] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:06:23] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:06:26] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:06:26] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:07:28] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:07:28] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:12:26] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:12:29] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:12:31] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:12:31] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:17:42] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:17:52] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:18:02] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:18:02] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:18:14] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:18:17] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:18:17] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:19:50] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:19:57] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:20:00] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:20:02] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:20:02] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:21:15] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:21:21] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:21:24] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:21:24] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:24:45] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:24:48] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:24:52] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:24:54] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:24:54] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:26:59] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:27:02] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:27:05] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:27:05] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:32:20] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:32:39] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:32:48] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:32:50] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:32:50] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:38:41] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:38:44] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:38:48] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:38:50] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:38:50] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:43:01] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:43:03] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:43:05] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:43:05] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:50:24] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:50:27] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:50:34] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:50:34] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:53:55] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:53:58] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:53:59] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:53:59] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:54:06] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:54:06] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:54:09] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:54:10] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:54:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:54:25] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:54:25] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:54:58] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:55:02] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:55:03] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:55:03] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:55:45] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:55:47] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:55:51] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:55:51] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 02:58:21] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 02:58:25] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 02:58:26] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 02:58:26] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:00:38] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 03:00:44] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:00:50] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:00:50] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:00:57] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:00:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:04:17] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 03:04:25] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:04:27] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:04:27] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:06:57] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 03:07:10] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:07:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:07:41] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:07:44] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:07:44] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:07:54] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:07:55] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:07:55] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:08:43] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:08:44] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:08:44] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:09:57] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 03:09:59] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:10:01] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:10:01] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:11:39] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:11:41] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:11:41] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:13] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:12:16] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 03:12:18] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:12:20] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:12:20] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:22] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:12:23] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:24] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:12:24] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:40] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 03:12:42] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:12:42] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:43] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-05 03:12:43] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 03:12:43] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-05 03:12:46] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 03:12:49] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 03:12:49] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-05 12:18:01] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-05 12:18:02] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:18:05] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:18:05] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:18:28] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:18:28] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:20:12] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 12:20:15] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:20:19] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:20:19] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:20:46] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:20:48] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:20:48] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:24:25] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:24:29] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:24:39] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:24:39] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:25:05] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:25:13] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:27:47] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:27:50] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:27:53] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-05 12:27:55] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:27:57] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-05 12:27:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:28:21] [ INFO ] [PacienteController:53] Iniciando una operacion de busqueda - actualizacion de un paciente con id:1
+[2022-12-05 12:28:21] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:28:21] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-05 12:28:21] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:28:53] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Bryan
+[2022-12-05 12:28:55] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-05 12:29:01] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 2
+[2022-12-05 12:29:01] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-05 12:29:01] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 2
+[2022-12-05 12:29:02] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-05 12:29:02] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-05 12:29:02] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-07 14:37:04] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: asdf
+[2022-12-07 14:37:07] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 14:37:16] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-07 14:37:16] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 14:37:16] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-07 14:37:33] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: asdf
+[2022-12-07 14:37:49] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 14:38:06] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 2
+[2022-12-07 14:38:06] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-07 14:38:10] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 2
+[2022-12-07 14:38:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-07 14:38:10] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 2
+[2022-12-07 14:38:14] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 14:38:15] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 14:51:40] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 14:51:49] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-07 14:52:03] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 14:52:09] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan Aldair
+[2022-12-07 14:52:11] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 14:55:03] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 15:12:14] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 15:15:12] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:15:20] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-07 15:15:21] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:15:23] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-07 15:15:23] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:15:32] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 1
+[2022-12-07 15:15:32] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:15:32] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-07 15:15:34] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:15:38] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: asdf
+[2022-12-07 15:15:39] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:15:43] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 2
+[2022-12-07 15:15:43] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:21:31] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 2
+[2022-12-07 15:21:31] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:21:45] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:21:51] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:21:53] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:21:54] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 2
+[2022-12-07 15:21:54] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:22:04] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 2
+[2022-12-07 15:22:04] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:23:33] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:23:44] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-07 15:23:45] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:23:46] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-07 15:23:46] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:25:12] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:25:14] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:25:19] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-07 15:25:21] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:25:22] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-07 15:25:22] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:25:30] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:25:33] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:25:35] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-07 15:25:35] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:25:45] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:29:56] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-07 15:29:56] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:29:57] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-07 15:29:57] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-07 15:33:49] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:33:56] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-07 15:33:57] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:33:59] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 1
+[2022-12-07 15:33:59] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:34:06] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:1
+[2022-12-07 15:34:06] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:34:06] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-07 15:34:06] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:34:14] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan Aldair
+[2022-12-07 15:34:16] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:34:18] [ INFO ] [OdontologoController:33] Iniciando una operación de busqueda de odontologo con id: 2
+[2022-12-07 15:34:18] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:34:25] [ INFO ] [OdontologoController:46] Iniciando una operacion de busqueda - actualizacion de un odontologo con id:2
+[2022-12-07 15:34:25] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:34:25] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 2
+[2022-12-07 15:34:25] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:34:35] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 2
+[2022-12-07 15:34:35] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 2
+[2022-12-07 15:34:35] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 2
+[2022-12-07 15:34:42] [ WARN ] [OdontologoController:53] Iniciando la operacion de busqueda - eliminacion del odontologo con id: 1
+[2022-12-07 15:34:42] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-07 15:34:42] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-07 15:35:03] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-07 15:35:05] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 15:35:08] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-07 15:35:08] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:35:39] [ INFO ] [PacienteController:53] Iniciando una operacion de busqueda - actualizacion de un paciente con id:1
+[2022-12-07 15:35:39] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-07 15:35:39] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-07 15:35:39] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 15:36:06] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Bryan Aldair
+[2022-12-07 15:36:08] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:36:10] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:36:12] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-07 15:36:20] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-07 15:36:26] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan Aldair
+[2022-12-07 15:36:28] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:50:09] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 12:50:09] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:50:09] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-09 12:50:09] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 12:52:51] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:52:51] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-09 12:52:51] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 12:55:43] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:55:43] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-09 12:55:43] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-09 12:57:26] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:57:26] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 12:57:26] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 12:57:26] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:57:26] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 12:57:26] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:57:26] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 12:57:27] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-09 12:57:27] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 14:52:12] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 14:52:12] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-09 14:52:12] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-09 14:54:48] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-09 14:54:50] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 14:55:21] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Bryan Aldair
+[2022-12-09 14:55:22] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-09 14:55:25] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 14:56:39] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:01:17] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-09 15:01:23] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-09 15:01:27] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:01:29] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:01:40] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-09 15:01:40] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:01:40] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 15:01:40] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-09 15:01:55] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-09 15:02:02] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:02:45] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-09 15:02:45] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:02:45] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 15:02:45] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-09 15:02:49] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:18:32] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-09 15:18:45] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-09 15:18:55] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:18:57] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:19:02] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:19:16] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-09 15:19:16] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:19:16] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 15:19:16] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-09 15:19:18] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:19:47] [ INFO ] [TurnoController:46] Iniciando una operación de busqueda del turno con id: 1
+[2022-12-09 15:19:47] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 15:19:53] [ INFO ] [TurnoController:59] Iniciando una operacion de busqueda - actualizacion del turno con id:1
+[2022-12-09 15:19:53] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 15:19:53] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:19:53] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 15:19:53] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 15:19:53] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-09 15:19:53] [ INFO ] [TurnoController:65] Existo en la operacion de actualizacion del turno
+[2022-12-09 15:19:53] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:26:32] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Rodolfo
+[2022-12-09 15:26:36] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Breisman
+[2022-12-09 15:26:45] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Bryan
+[2022-12-09 15:26:53] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:26:55] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:30] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:31] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:33] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:37] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:45] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:49] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:27:52] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-09 15:28:05] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-09 15:28:18] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-09 15:28:29] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-09 15:28:29] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:28:29] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-09 15:28:29] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-09 15:28:32] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:28:46] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 2 - asignado al odontologo con id: 1
+[2022-12-09 15:28:46] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:28:46] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-09 15:28:46] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-09 15:28:48] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:28:53] [ INFO ] [TurnoController:46] Iniciando una operación de busqueda del turno con id: 2
+[2022-12-09 15:28:53] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-09 15:29:04] [ INFO ] [TurnoController:59] Iniciando una operacion de busqueda - actualizacion del turno con id:2
+[2022-12-09 15:29:04] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-09 15:29:04] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-09 15:29:04] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 2
+[2022-12-09 15:29:04] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-09 15:29:04] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 2
+[2022-12-09 15:29:04] [ INFO ] [TurnoController:65] Existo en la operacion de actualizacion del turno
+[2022-12-09 15:29:04] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-09 15:29:07] [ WARN ] [TurnoController:75] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 2
+[2022-12-09 15:29:07] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 2
+[2022-12-09 15:29:07] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 2
+[2022-12-09 15:29:08] [ WARN ] [TurnoController:75] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 1
+[2022-12-09 15:29:08] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-09 15:29:08] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-12 23:03:41] [ INFO ] [OdontologoController:27] Iniciando una operación de guardado de odontologo con nombre: Breisman
+[2022-12-12 23:03:43] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-12 23:04:31] [ INFO ] [PacienteController:27] Iniciando una operación de guardado de paciente con nombre: Bryan Aldair
+[2022-12-12 23:04:34] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-12 23:04:37] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:04:47] [ INFO ] [TurnoController:33] Iniciando una operación de guardado de un turno para el paciente con id: 1 - asignado al odontologo con id: 1
+[2022-12-12 23:04:47] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:04:47] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:04:47] [ INFO ] [TurnoController:36] Existo en la operacion de guardado del turno
+[2022-12-12 23:04:50] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:04:53] [ INFO ] [TurnoController:46] Iniciando una operación de busqueda del turno con id: 1
+[2022-12-12 23:04:53] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:04:58] [ INFO ] [TurnoController:59] Iniciando una operacion de busqueda - actualizacion del turno con id:1
+[2022-12-12 23:04:58] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:04:58] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:04:58] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:04:58] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:04:58] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-12 23:04:58] [ INFO ] [TurnoController:65] Existo en la operacion de actualizacion del turno
+[2022-12-12 23:04:58] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:05:01] [ WARN ] [TurnoController:75] Iniciando la operacion de busqueda - eliminacion del turnoDTO con id: 1
+[2022-12-12 23:05:01] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:05:02] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-12 23:05:04] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-12 23:05:06] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-12 23:05:06] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:25:19] [ INFO ] [PacienteController:53] Iniciando una operacion de busqueda - actualizacion de un paciente con id:1
+[2022-12-12 23:25:19] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:25:19] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-12 23:25:19] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-12 23:25:24] [ INFO ] [PacienteController:33] Iniciando una operación de busqueda de paciente con id: 1
+[2022-12-12 23:25:24] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:25:29] [ INFO ] [PacienteController:53] Iniciando una operacion de busqueda - actualizacion de un paciente con id:1
+[2022-12-12 23:25:29] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:25:29] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-12 23:25:29] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-12 23:25:31] [ WARN ] [PacienteController:60] Iniciando la operacion de busqueda - eliminacion del paciente con id: 1
+[2022-12-12 23:25:31] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:25:31] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-12 23:39:18] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:40:32] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:41:55] [ INFO ] [OdontologoController:40] Iniciando la operación de listar todos los odontologos
+[2022-12-12 23:42:02] [ INFO ] [PacienteController:47] Iniciando la operación de listar todos los pacientes
+[2022-12-12 23:42:06] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:42:41] [ INFO ] [TurnoController:53] Iniciando la operación de listar todos los turnos
+[2022-12-12 23:43:37] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:43:38] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:43:38] [ INFO ] [OdontologoService:45] Exito en la operación de actualizacion del odontologo con id: 1
+[2022-12-12 23:43:38] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:43:38] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:43:38] [ INFO ] [OdontologoService:50] Exito en la operacion de eliminacion del odontologo con id: 1
+[2022-12-12 23:43:38] [ ERROR] [OdontologoService:33] Fallo en la operacion de busqueda del odontologo con id: 1
+[2022-12-12 23:44:09] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:44:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:44:10] [ INFO ] [PacienteService:45] Exito en la operación de actualizacion del paciente con id: 1
+[2022-12-12 23:44:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:44:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:44:10] [ INFO ] [PacienteService:51] Exito en la operacion de eliminacion del paciente con id: 1
+[2022-12-12 23:44:10] [ ERROR] [PacienteService:33] Fallo en la operacion de busqueda del paciente con id: 1
+[2022-12-12 23:44:47] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [OdontologoService:29] Exito en la operación de busqueda del odontologo con id: 1
+[2022-12-12 23:45:10] [ INFO ] [PacienteService:29] Exito en la operación de busqueda del paciente con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:54] Exito en la operación de actualizacion del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:32] Exito en la operación de busqueda del turno con id: 1
+[2022-12-12 23:45:10] [ INFO ] [TurnoService:60] Exito en la operacion de eliminacion del turno con id: 1
+[2022-12-12 23:45:10] [ ERROR] [TurnoService:36] Fallo en la operacion de busqueda del turno con id: 1
